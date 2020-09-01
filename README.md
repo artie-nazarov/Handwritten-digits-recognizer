@@ -37,7 +37,7 @@ After analytically training the Network and assessing the learning curve behavio
 **Final NN Architecture:**  
 Input layer: 784 units (28*28 pxls)  
 1 Hidden Layer: 85 units <--- Main adjustment  
-Output layer: 10 units (10 digits 0-9)
+Output layer: 10 units (10 digits 0-9)  
 Learning rate: 0.3
 
 Test set accuracy after 3000 iteretions: **96.3%**  
