@@ -39,4 +39,5 @@ Input layer: 784 units (28*28 pxls)
 1 Hidden Layer: 85 units <--- Main adjustment  
 Output layer: 10 units (10 digits 0-9)
 
-After 1750 iteretions the test set accuracy was **93.5%**
+Test set accuracy after 1750 iteretions: **93.5%**  
+3000 iterations: **94.8%**
