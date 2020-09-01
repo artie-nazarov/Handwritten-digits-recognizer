@@ -2,7 +2,7 @@
 
 ### Overview
 This is a Neural Network built from scratch using the NumPy library to solve the MNIST handwritten digit classifier. The architecture of the neural net was designed by diagnosing a bias vs. variance problem using a leraning curve and a regularization parameter analysis.
-Results: Test set accuracy: **93.5%**
+Results: Test set accuracy: **95.7%**
 
 ### Goal
 
@@ -41,3 +41,4 @@ Output layer: 10 units (10 digits 0-9)
 
 Test set accuracy after 1750 iteretions: **93.5%**  
 3000 iterations: **94.8%**
+5000 iterations: **95.7%**
