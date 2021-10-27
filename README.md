@@ -1,7 +1,7 @@
 # Build a Neural Network from scratch analytically - Handwritten digits
 
 ### Overview
-This is a Neural Network built from scratch using the NumPy library to solve the MNIST handwritten digit classifier. The architecture of the neural net was designed by diagnosing a bias vs. variance problem using a leraning curve and a regularization parameter analysis.
+This is a Neural Network built from scratch using the NumPy library to solve the MNIST handwritten digit classifier. The architecture of the neural net was designed by diagnosing a bias vs. variance problem using a learning curve and a regularization parameter analysis.
 Results: Test set accuracy: **96.9%**
 
 ### Goal
